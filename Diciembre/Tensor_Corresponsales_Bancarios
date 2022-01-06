@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/cienciadedatos-sys/bancamia_text_analytics/main/Noviembre/Corresponsales_Bancarios/_tensor_corresponsales_00_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/cienciadedatos-sys/bancamia_text_analytics/main/Noviembre/Corresponsales_Bancarios/_tensor_corresponsales_00_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/cienciadedatos-sys/bancamia_text_analytics/main/Diciembre/Corresponsales_Bancarios/_tensor_corresponsales_00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/cienciadedatos-sys/bancamia_text_analytics/main/Diciembre/Corresponsales_Bancarios/_tensor_corresponsales_00_metadata.tsv"
       
 
 
